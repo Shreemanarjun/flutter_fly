@@ -5,6 +5,12 @@
 
 FlutterFly is a flight booking app that allows users to search for flights, view flight details, and book flights seamlessly. The app is built using Flutter and Riverpod for state management.
 
+https://github.com/Shreemanarjun/flutter_fly/assets/24736211/712e95b5-27d3-434a-ac98-a647dbe266b4
+
+
+
+
+
 ## Features ✨
 
 - 🌍 Search for flights by origin, destination, and date.
