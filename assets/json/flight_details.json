@@ -1,0 +1,61 @@
+{
+    "flights": [
+      {
+        "flightNumber": "AI101",
+        "airline": "Air India",
+        "origin": "Mumbai",
+        "destination": "Delhi",
+        "departureDate": "2023-09-01T08:00:00",
+        "arrivalDate": "2023-09-01T10:30:00",
+        "duration": "2h 30m",
+        "price": 180.00,
+        "seatsAvailable": 120
+      },
+      {
+        "flightNumber": "SG302",
+        "airline": "SpiceJet",
+        "origin": "Delhi",
+        "destination": "Bengaluru",
+        "departureDate": "2023-09-02T09:15:00",
+        "arrivalDate": "2023-09-02T12:00:00",
+        "duration": "2h 45m",
+        "price": 150.00,
+        "seatsAvailable": 80
+      },
+      {
+        "flightNumber": "6E405",
+        "airline": "IndiGo",
+        "origin": "Chennai",
+        "destination": "Kolkata",
+        "departureDate": "2023-09-03T11:30:00",
+        "arrivalDate": "2023-09-03T14:00:00",
+        "duration": "2h 30m",
+        "price": 160.00,
+        "seatsAvailable": 100
+      },
+      {
+        "flightNumber": "VJ720",
+        "airline": "Vistara",
+        "origin": "Hyderabad",
+        "destination": "Ahmedabad",
+        "departureDate": "2023-09-04T14:45:00",
+        "arrivalDate": "2023-09-04T17:00:00",
+        "duration": "2h 15m",
+        "price": 200.00,
+        "seatsAvailable": 60
+      },
+      {
+        "flightNumber": "AI109",
+        "airline": "Air India",
+        "origin": "Mumbai",
+        "destination": "Delhi",
+        "departureDate": "2023-09-01T06:00:00",
+        "arrivalDate": "2023-09-01T09:30:00",
+        "duration": "3h 30m",
+        "price": 200.00,
+        "seatsAvailable": 100
+      }
+   
+    ]
+  }
+  
